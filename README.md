@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on exciting design projects that challenge the boundaries of creativity and usability. Let's work together to craft intuitive, visually appealing, and user-centric designs.
 - 📫 How to reach me ... 
              1. You can reach out to me through my email: imranatif89@gmail.com
-             2. Connect with me on LinkedIn: mkimranatif
-             3. Check out my portfolio: mkimranatif
+             2. Connect with me on LinkedIn: mkimranatif.
+             3. Check out my portfolio: mkimranatif.
   💼 Let's create amazing user experiences together!
 
 <!---
