@@ -6,7 +6,7 @@
              1. You can reach out to me through my email: imranatif89@gmail.com
              2. Connect with me on LinkedIn: mkimranatif
              3. Check out my portfolio: mkimranatif
-     Let's create amazing user experiences together!
+  💼 Let's create amazing user experiences together!
 
 <!---
 mkimranatif/mkimranatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
