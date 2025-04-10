@@ -7,8 +7,3 @@
              2. Connect with me on LinkedIn: mkimranatif.
              3. Check out my portfolio: https://bento.me/imranatif
   💼 Let's create amazing user experiences together!
-
-<!---
-mkimranatif/mkimranatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
