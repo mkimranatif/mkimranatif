@@ -5,7 +5,7 @@
 - 📫 How to reach me ... 
              1. You can reach out to me through my email: imranatif89@gmail.com
              2. Connect with me on LinkedIn: mkimranatif.
-             3. Check out my portfolio:https://bento.me/imranatif
+             3. Check out my portfolio: https://bento.me/imranatif
   💼 Let's create amazing user experiences together!
 
 <!---
